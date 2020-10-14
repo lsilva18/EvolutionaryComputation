@@ -1,2 +1,2 @@
 # EvolutionaryComputation
-Evolutionary computing assignment tasks @PUC-Rio
+Evolutionary computation assignment tasks @PUC-Rio
